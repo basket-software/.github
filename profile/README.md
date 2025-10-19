@@ -2,4 +2,4 @@
 
 We develop automation and utility tools for libraries and data scientists.
 
-![Basket Software Logo](./../assets/basket_software_logo.png)
+![Basket Software Logo](./basket_software_logo.png)
